@@ -1,1 +1,1 @@
-# git_test
+This is Brittany's first git project!
